@@ -1,0 +1,19 @@
+// This source code is subject to the terms of the Mozilla Public License 2.0 at https://mozilla.org/MPL/2.0/
+// © SRUIZ1
+
+//@version=5
+
+trail_avg_vol = ta.sma(volume, 200)
+fast_Average = ta.ema(volume, 6)
+indicator("RVI")
+
+dyn_color = if (fast_Average > trail_avg_vol*1.5)
+    color.new(#afaaa0, 12)
+else if (fast_Average > trail_avg_vol)
+    color.new(#c2b280, 24)
+else
+    color.new(#395ea1, 31)
+
+
+plot(fast_Average, title='Title', color=dyn_color, style=plot.style_columns, trackprice=false)
+plot(trail_avg_vol,linewidth=2, color=color.rgb(0, 0, 0, 100))
