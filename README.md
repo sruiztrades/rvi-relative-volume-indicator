@@ -48,5 +48,5 @@ This tool was created to solve a real problem I noticed as a young trader: volum
 
 ## 📷 Screenshot
 
-![RVI Screenshot](https://raw.githubusercontent.com/sruiztrades/rvi-relative-volume-indicator/main/rvi-example.png)
+<img src="https://raw.githubusercontent.com/sruiztrades/rvi-relative-volume-indicator/main/rvi-example.png" alt="RVI Screenshot" width="800"/>
 
