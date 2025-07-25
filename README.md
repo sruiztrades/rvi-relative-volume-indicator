@@ -45,6 +45,7 @@ else
 ## 💡 Design Philosophy
 
 This tool was created to solve a real problem I noticed as a young trader: volume is meaningless without context. Over years, I saw stocks shift between high and low liquidity regimes, making raw volume useless. By adapting to long-term baselines and highlighting deviations, this tool brings volume into context.
+```
 
 ## 📷 Screenshot
 
