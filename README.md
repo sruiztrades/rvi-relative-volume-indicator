@@ -48,6 +48,5 @@ This tool was created to solve a real problem I noticed as a young trader: volum
 
 ## 📷 Screenshot
 
-<img src="https://raw.githubusercontent.com/sruiztrades/rvi-relative-volume-indicator/main/620925f2-064b-41bd-a334-38b25460e3a9.png" alt="RVI Screenshot" width="800"/>
-
+<img width="1835" height="858" alt="GOOG_2025-07-25_16-54-08" src="https://github.com/user-attachments/assets/0f021efd-0fe5-4fb4-96fc-9b095954a1e1" />
 
